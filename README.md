@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src=https://github.com/analystkristle/analystkristle/blob/main/profile-banner.jpg
+</p>
 
-<!--
-**analystkristle/analystkristle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello! Welcome to my profile. I'm glad that you're here. Let me introduce myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Kristle (Kris-**tle**, rhymes with gen-**tle**). I'm a Communication Research graduate who has spent several years navigating the world of Market Research. From that experience, I've developed an instinct for patterns and insights. But over time, I realized I wanted to immerse myself in data analytics and understand data on a much deeper level. That's why I am working on expanding my skillset to be able to move into a data analytics career.
+
+This is where you'll see my journey of continuous learning and the projects that come out of it.
+
+Check out my page for a complete overview of my journey, qualifications, and projects: https://analystkristle.github.io
+
+Thank you for visiting, and have a nice day!
