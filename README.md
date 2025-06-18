@@ -9,6 +9,6 @@ My name is Kristle (Kris-**tle**, rhymes with gen-**tle**). I'm a Communication 
 
 This is where you'll see my journey of continuous learning and the projects that come out of it.
 
-Check out my page for a complete overview of my journey, qualifications, and projects: https://analystkristle.github.io
+Check out my portfolio page: https://analystkristle.github.io
 
 Thank you for visiting, and have a nice day!
