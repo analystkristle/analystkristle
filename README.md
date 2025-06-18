@@ -3,7 +3,7 @@
 </p>
 
 
-Hello! Welcome to my profile. I'm glad that you're here. Let me introduce myself.
+Hi! Welcome to my profile. I'm glad that you're here. Let me introduce myself.
 
 My name is Kristle (Kris-**tle**, rhymes with gen-**tle**). I'm a Communication Research graduate who has spent several years navigating the world of Market Research. From that experience, I've developed an instinct for patterns and insights. But over time, I realized I wanted to immerse myself in data analytics and understand data on a much deeper level. That's why I am working on expanding my skillset to be able to move into a data analytics career.
 
